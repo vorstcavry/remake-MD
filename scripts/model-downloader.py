@@ -6,7 +6,7 @@ from urllib.parse import urlparse
 from modules import script_callbacks
 
 root = "/content"
-sd_path = "/stable-diffusion-webui"
+sd_path "/cagliostro-colab-ui"
 
 checkpoint_path = "/models/Stable-diffusion"
 hypernetwork_path = "/models/hypernetworks"
